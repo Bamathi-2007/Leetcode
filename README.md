@@ -25,4 +25,12 @@ Daily Streak
 |  |
 | ------- |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bamathi-2007/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bamathi-2007/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
