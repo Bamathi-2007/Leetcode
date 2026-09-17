@@ -19,8 +19,8 @@ class Solution {
 
         ch[s.length() - 1] = '1';
 
-        String result = String.valueOf(ch);
+        //String result = String.valueOf(ch);
 
-        return result;
+        return new String(ch);
     }
 }
