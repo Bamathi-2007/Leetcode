@@ -12,6 +12,7 @@ Daily Streak
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Divide and Conquer
