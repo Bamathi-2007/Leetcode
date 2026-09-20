@@ -4,7 +4,7 @@ class Solution {
 
         for(int i=0; i<s.length(); i++){
             ch = s.charAt(i);
-            val = 'z' - ch +1;
+            val = 123 - ch;
             sum += val*(i+1);
         }
         return sum;
