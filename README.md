@@ -6,6 +6,7 @@ Daily Streak
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -13,6 +14,7 @@ Daily Streak
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bamathi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -64,5 +66,6 @@ Daily Streak
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bamathi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
