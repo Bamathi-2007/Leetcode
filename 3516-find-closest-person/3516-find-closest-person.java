@@ -6,11 +6,11 @@ class Solution {
         if(d1 < d2){
             return 1;
         }
-        else if(d2 == d1){
-            return 0;
+        else if(d2 < d1){
+            return 2;
         }
         else{
-            return 2;
+            return 0;
         }
     }
 }
