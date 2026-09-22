@@ -10,6 +10,7 @@ Daily Streak
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3516-find-closest-person](https://github.com/Bamathi-2007/Leetcode/tree/master/3516-find-closest-person) |
 ## String
 |  |
 | ------- |
