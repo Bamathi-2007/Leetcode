@@ -25,6 +25,7 @@ Daily Streak
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bamathi-2007/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ Daily Streak
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bamathi-2007/Leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0136-single-number) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bamathi-2007/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
