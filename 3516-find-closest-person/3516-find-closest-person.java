@@ -6,11 +6,11 @@ class Solution {
         if(dist1 < dist2){
             return 1;
         }
-        else if(dist2 < dist1){
-            return 2;
+        else if(dist2 == dist1){
+            return 0;
         }
         else{
-            return 0;
+            return 2;
         }
     }
 }
