@@ -1,14 +1,16 @@
 class Solution {
     public int findClosest(int x, int y, int z) {
-         int p1 = Math.abs(z-x);
-         int p2= Math.abs(z-y);
+        int dist1 = Math.abs(x-z);
+        int dist2 = Math.abs(y-z);
 
-         if(p1<p2){
-              return 1;
-         }else if(p1==p2){
-            return 0;
-         }else{
+        if(dist1 < dist2){
+            return 1;
+        }
+        else if(dist2 < dist1){
             return 2;
-         }
+        }
+        else{
+            return 0;
+        }
     }
 }
