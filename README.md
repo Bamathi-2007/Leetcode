@@ -8,6 +8,7 @@ Daily Streak
 | ------- |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3516-find-closest-person](https://github.com/Bamathi-2007/Leetcode/tree/master/3516-find-closest-person) |
@@ -73,4 +74,8 @@ Daily Streak
 | ------- |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bamathi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
