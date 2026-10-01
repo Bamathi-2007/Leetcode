@@ -16,6 +16,7 @@ Daily Streak
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -38,6 +39,7 @@ Daily Streak
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Bamathi-2007/Leetcode/tree/master/0155-min-stack) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -93,6 +95,7 @@ Daily Streak
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
