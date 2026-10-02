@@ -52,6 +52,7 @@ Daily Streak
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bamathi-2007/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bamathi-2007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -63,6 +64,7 @@ Daily Streak
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bamathi-2007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bamathi-2007/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -75,6 +77,7 @@ Daily Streak
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bamathi-2007/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -108,4 +111,12 @@ Daily Streak
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
