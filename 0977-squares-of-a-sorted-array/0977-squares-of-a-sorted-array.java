@@ -7,15 +7,7 @@ class Solution {
             sqr[i] = nums[i] * nums[i];
         }
 
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<nums.length; j++){
-                if(sqr[i] > sqr[j]){
-                    int temp = sqr[i];
-                    sqr[i] = sqr[j];
-                    sqr[j] = temp;
-                }
-            }
-        }
+        Arrays.sort(sqr);
 
         return sqr;
     }
