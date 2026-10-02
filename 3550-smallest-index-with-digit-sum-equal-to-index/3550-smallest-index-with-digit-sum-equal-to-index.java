@@ -6,8 +6,7 @@ class Solution {
             int sum = 0;
 
             while(x != 0){
-                int digit = x % 10;
-                sum += digit;
+                sum += x % 10;
                 x /= 10;
             }
 
