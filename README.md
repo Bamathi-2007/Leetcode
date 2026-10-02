@@ -22,6 +22,7 @@ Daily Streak
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bamathi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -106,4 +107,5 @@ Daily Streak
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
