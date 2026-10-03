@@ -34,6 +34,7 @@ Daily Streak
 | ------- |
 | [0136-single-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Bamathi-2007/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Bamathi-2007/Leetcode/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +120,8 @@ Daily Streak
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Bamathi-2007/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
