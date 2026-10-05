@@ -3,7 +3,7 @@ class Solution {
         int num = n;
         int sum = 0; int product = 1;
         
-        while(num != 0){
+        while(num > 0){
             int digit = num % 10;
             sum += digit;
             product *= digit;
