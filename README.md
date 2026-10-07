@@ -58,6 +58,7 @@ Daily Streak
 | [0136-single-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bamathi-2007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -87,6 +88,7 @@ Daily Streak
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -125,4 +127,8 @@ Daily Streak
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Bamathi-2007/Leetcode/tree/master/0338-counting-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
