@@ -18,6 +18,7 @@ Daily Streak
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Bamathi-2007/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
