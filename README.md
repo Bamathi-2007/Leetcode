@@ -15,6 +15,7 @@ Daily Streak
 | [3516-find-closest-person](https://github.com/Bamathi-2007/Leetcode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bamathi-2007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bamathi-2007/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Daily Streak
 |  |
 | ------- |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
 | ------- |
