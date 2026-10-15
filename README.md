@@ -55,6 +55,7 @@ Daily Streak
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bamathi-2007/Leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Bamathi-2007/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Daily Streak
 | [0136-single-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bamathi-2007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bamathi-2007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Bamathi-2007/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Bamathi-2007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +149,7 @@ Daily Streak
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bamathi-2007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Bamathi-2007/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bamathi-2007/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bamathi-2007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
