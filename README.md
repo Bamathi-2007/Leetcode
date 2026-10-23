@@ -19,6 +19,7 @@ Daily Streak
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bamathi-2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Bamathi-2007/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
@@ -102,6 +103,7 @@ Daily Streak
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bamathi-2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Bamathi-2007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +132,7 @@ Daily Streak
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bamathi-2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bamathi-2007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
