@@ -5,16 +5,11 @@ class Solution {
         int count = 0; int max = 0;
 
         for(int i=0; i<s.length(); i++){
-            if(!set.contains(s.charAt(i))){
-                set.add(s.charAt(i));
+            while(set.contains(s.charAt(i))){
+                set.remove(s.charAt(left));
+                left++;
             }
-            else{
-                while(set.contains(s.charAt(i))){
-                    set.remove(s.charAt(left));
-                    left++;
-                }
-                set.add(s.charAt(i));
-            }
+            set.add(s.charAt(i));
             right = i;
             count = right - left + 1;
             max = Math.max(count, max);
