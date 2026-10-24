@@ -10,6 +10,7 @@ Daily Streak
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2409-count-days-spent-together](https://github.com/Bamathi-2007/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3516-find-closest-person](https://github.com/Bamathi-2007/Leetcode/tree/master/3516-find-closest-person) |
@@ -28,6 +29,7 @@ Daily Streak
 | [1021-remove-outermost-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/Bamathi-2007/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bamathi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
