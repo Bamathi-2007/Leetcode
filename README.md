@@ -10,6 +10,7 @@ Daily Streak
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bamathi-2007/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/Bamathi-2007/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
