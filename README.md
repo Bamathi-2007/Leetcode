@@ -8,6 +8,7 @@ Daily Streak
 | ------- |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/0258-add-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bamathi-2007/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -121,6 +122,7 @@ Daily Streak
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bamathi-2007/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
@@ -159,4 +161,8 @@ Daily Streak
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bamathi-2007/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bamathi-2007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
