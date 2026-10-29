@@ -78,6 +78,7 @@ Daily Streak
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Bamathi-2007/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bamathi-2007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bamathi-2007/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bamathi-2007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -114,11 +115,13 @@ Daily Streak
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Simulation
 |  |
 | ------- |
