@@ -13,6 +13,7 @@ Daily Streak
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bamathi-2007/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/Bamathi-2007/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/Bamathi-2007/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3516-find-closest-person](https://github.com/Bamathi-2007/Leetcode/tree/master/3516-find-closest-person) |
@@ -175,6 +176,7 @@ Daily Streak
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Bamathi-2007/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Matrix
 |  |
 | ------- |
