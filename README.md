@@ -9,6 +9,7 @@ Daily Streak
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Bamathi-2007/Leetcode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
