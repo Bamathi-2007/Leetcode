@@ -3,7 +3,7 @@ class Solution {
         int sum = 1;
         int x = num;
 
-        for(int i=2; i<=x; i++){
+        for(int i=2; i*1<=x; i++){
             if(x % i == 0){
                 sum += i;
             }
