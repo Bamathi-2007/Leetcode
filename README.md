@@ -9,6 +9,7 @@ Daily Streak
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/0258-add-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bamathi-2007/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Bamathi-2007/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -80,6 +81,7 @@ Daily Streak
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/Bamathi-2007/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Bamathi-2007/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
