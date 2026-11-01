@@ -3,14 +3,15 @@ class Solution {
         Arrays.sort(players);
         Arrays.sort(trainers);
 
-        int i=0,j=0;
+        int i=0,j=0; int count = 0;
         
         while(i<players.length && j<trainers.length){
             if(trainers[j]>=players[i]){
+                count++;
                 i++;
             }
             j++;
         }
-        return i;
+        return count;
     }
 }
