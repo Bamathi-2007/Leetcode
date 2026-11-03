@@ -29,6 +29,7 @@ Daily Streak
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bamathi-2007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Bamathi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Bamathi-2007/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
@@ -100,6 +101,7 @@ Daily Streak
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bamathi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Bamathi-2007/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bamathi-2007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Bamathi-2007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +179,7 @@ Daily Streak
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bamathi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/Bamathi-2007/Leetcode/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
@@ -195,4 +198,8 @@ Daily Streak
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Bamathi-2007/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bamathi-2007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
