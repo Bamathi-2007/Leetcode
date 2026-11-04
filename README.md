@@ -56,6 +56,7 @@ Daily Streak
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Bamathi-2007/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Bamathi-2007/Leetcode/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Bamathi-2007/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -88,6 +89,7 @@ Daily Streak
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/Bamathi-2007/Leetcode/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Bamathi-2007/Leetcode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
