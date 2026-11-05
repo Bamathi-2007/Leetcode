@@ -1,20 +1,16 @@
 class Solution {
     public int uniqueMorseRepresentations(String[] words) {
-        String[] arr = new String[] {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};   
-
+        String[] letters = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
         HashSet<String> set = new HashSet<>();
 
-        for (String word : words){ 
-            set.add(transformMorse(word, arr));
+        for(String word : words){
+            StringBuilder sb = new StringBuilder();
+            for(int i=0; i<word.length(); i++){
+                sb.append(letters[word.charAt(i) - 'a']);
+            }
+            set.add(sb.toString());
         }
-        return set.size();
-    }
-    public String transformMorse(String word, String[] arr) {
-        StringBuilder build = new StringBuilder();
 
-        for (char c : word.toCharArray()){
-            build.append(arr[(int)c - 97]);
-        }
-        return build.toString();
+        return set.size();
     }
 }
