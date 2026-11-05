@@ -35,6 +35,7 @@ Daily Streak
 | [0038-count-and-say](https://github.com/Bamathi-2007/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Bamathi-2007/Leetcode/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0804-unique-morse-code-words](https://github.com/Bamathi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -89,6 +90,7 @@ Daily Streak
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/Bamathi-2007/Leetcode/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/Bamathi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Bamathi-2007/Leetcode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,6 +140,7 @@ Daily Streak
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bamathi-2007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0804-unique-morse-code-words](https://github.com/Bamathi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
