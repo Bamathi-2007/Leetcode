@@ -60,6 +60,7 @@ Daily Streak
 | [0860-lemonade-change](https://github.com/Bamathi-2007/Leetcode/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Bamathi-2007/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2864-maximum-odd-binary-number](https://github.com/Bamathi-2007/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Bamathi-2007/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Bamathi-2007/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@ Daily Streak
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Bamathi-2007/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Bamathi-2007/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bamathi-2007/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Bamathi-2007/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Bamathi-2007/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
