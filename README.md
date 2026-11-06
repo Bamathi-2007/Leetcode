@@ -99,6 +99,7 @@ Daily Streak
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bamathi-2007/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Bamathi-2007/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Bamathi-2007/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bamathi-2007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Bamathi-2007/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -201,6 +202,7 @@ Daily Streak
 | [0303-range-sum-query-immutable](https://github.com/Bamathi-2007/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Bamathi-2007/Leetcode/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Bamathi-2007/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Bamathi-2007/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Number Theory
 |  |
