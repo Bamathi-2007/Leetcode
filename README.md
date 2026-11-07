@@ -37,6 +37,7 @@ Daily Streak
 | [0168-excel-sheet-column-title](https://github.com/Bamathi-2007/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0804-unique-morse-code-words](https://github.com/Bamathi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Bamathi-2007/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bamathi-2007/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bamathi-2007/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/Bamathi-2007/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -150,12 +151,14 @@ Daily Streak
 | [0560-subarray-sum-equals-k](https://github.com/Bamathi-2007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/Bamathi-2007/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [1189-maximum-number-of-balloons](https://github.com/Bamathi-2007/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bamathi-2007/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Bamathi-2007/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Bamathi-2007/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Bamathi-2007/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Simulation
